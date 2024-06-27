@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@xaviabot/fb-downloader": "^1.0.14",
+    "axios": "^1.7.2",
+    "betabotz-tools": "^0.0.7",
+    "fca-horizon-remastered": "^0.0.1-security",
+    "fca-unofficial": "^1.3.10",
+    "figlet": "^1.7.0",
+    "fs-extra": "^11.2.0",
+    "gradient-string": "^2.0.2",
+    "ytdl-core": "^4.11.5"
+  }
+}
